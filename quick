@@ -1,0 +1,59 @@
+[33mcommit 44c447166d3b23287e4172430e15345b38410e54[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Artem Agamalov <aag@global-mediator.com>
+Date:   Mon Jan 21 11:56:34 2019 +0200
+
+    renamed first.txt to home.txt
+
+[33mcommit d8ebd0e7ceb483ad2744f18a9a3cf5b6c839ccb8[m
+Author: Artem Agamalov <aag@global-mediator.com>
+Date:   Mon Jan 21 11:52:32 2019 +0200
+
+    this is the point in thime where we deleted third.txt
+
+[33mcommit 60175d4363a707ed697e3b1426c99cf0ddd107f4[m
+Author: Artem Agamalov <aag@global-mediator.com>
+Date:   Mon Jan 21 11:47:27 2019 +0200
+
+    made some really dumb changes
+
+[33mcommit 786ae43b9c26e59bce3d46f36d38786c27604276[m
+Author: Artem Agamalov <aag@global-mediator.com>
+Date:   Mon Jan 21 11:44:05 2019 +0200
+
+    here are some awesome changes to two files
+
+[33mcommit 3e6d2e8cb46a14a477a5e8d761d1c017f597981e[m
+Author: Artem Agamalov <aag@global-mediator.com>
+Date:   Mon Jan 21 11:40:10 2019 +0200
+
+    we are commiting out changes
+
+[33mcommit 2cb4a41c13971068263034dfd0ad84ce68c78a2d[m
+Author: Artem Agamalov <aag@global-mediator.com>
+Date:   Mon Jan 21 11:37:09 2019 +0200
+
+    this is kow you can edit multiple files
+
+[33mcommit e3298e52f977a0577996cd76c696469b78c58b0a[m
+Author: Artem Agamalov <aag@global-mediator.com>
+Date:   Mon Jan 21 11:34:58 2019 +0200
+
+    modified the first file
+
+[33mcommit 4ac0a60009713f859b4e5eef724d9edc2a57bb38[m
+Author: Artem Agamalov <aag@global-mediator.com>
+Date:   Mon Jan 21 11:31:23 2019 +0200
+
+    the third file is now joining its friends
+
+[33mcommit a6c21cebcf02be6672f4c65a2c78f006dc2b11f5[m
+Author: Artem Agamalov <aag@global-mediator.com>
+Date:   Mon Jan 21 11:30:11 2019 +0200
+
+    adding the second file to the repository
+
+[33mcommit bd18ad1d00214e6c33f65a0493b30273475d4a4e[m
+Author: Artem Agamalov <aag@global-mediator.com>
+Date:   Mon Jan 21 11:19:43 2019 +0200
+
+    This is first commit
